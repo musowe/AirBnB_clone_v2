@@ -31,7 +31,7 @@
 -   Task 5
 -   Task 6
     -   models/state.py
-    -   models/engine/models/**init**.py
+    -   models/engine/models/`__init__.py`
 -   Task 7
 -   Task 9
     -   models/review.py
@@ -49,5 +49,9 @@ Basically when you are done with a task then you put an x to indicate done `-[x]
 -   [ ] Task 2
 -   [ ] Task 3
 -   [ ] Task 4
--   [ ] text
--   [ ] text
+-   [ ] Task 5
+-   [ ] Task 6
+    -   [ ] models_base.py
+    -   [ ] models/city.py
+    -   [ ] models/state.py
+    -   [ ] models/engine/models/`__init__.py`
