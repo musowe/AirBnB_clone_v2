@@ -46,7 +46,7 @@
 
 Basically when you are done with a task then you put an x to indicate done `-[x]`
 
--   [ ] Task 2 - Elvis
+-   [x] Task 2 - Elvis (needs some touchup )
 -   [ ] Task 3 - Musowe
 -   [ ] Task 4 - Elvis
 -   [ ] Task 5 - Musowe
