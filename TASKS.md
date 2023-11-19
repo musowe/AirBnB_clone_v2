@@ -48,7 +48,7 @@ Basically when you are done with a task then you put an x to indicate done `-[x]
 
 -   [x] Task 2 - Elvis (needs some touchup )
 -   [ ] Task 3 - Musowe
--   [ ] Task 4 - Elvis
+-   [x] Task 4 - Elvis (fully done no errors)
 -   [ ] Task 5 - Musowe
 -   [ ] Task 6 - Both
     -   [ ] models_base.py - Elvis
