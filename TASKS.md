@@ -68,7 +68,7 @@ Basically when you are done with a task then you put an x to indicate done `-[x]
     -   [ ] models/amenity.py - Musowe
     -   [ ] models/place.py - Elvis
 
-Since some task are interdependent on each other it will good if the Checklist
+Since some task are linked to each other it will good if the Checklist
 is updated so there are no conflicts
 
 -   Task 1 is Basically making of test cases so its up to us to do them or not
