@@ -51,7 +51,7 @@ Basically when you are done with a task then you put an x to indicate done `-[x]
 -   [x] Task 4 - Elvis (fully done no errors)
 -   [x] Task 5 - Musowe
 -   [ ] Task 6 - Both
-    -   [ ] models_base.py - Elvis
+    -   [ ] models/base_model.py - Elvis
     -   [ ] models/city.py - Elvis
     -   [x] models/state.py - Musowe
     -   [x] models/engine/models/`__init__.py` - Musowe
