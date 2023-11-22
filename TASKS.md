@@ -58,7 +58,7 @@ Basically when you are done with a task then you put an x to indicate done `-[x]
 -   [x] Task 7 - Musowe
 -   [ ] Task 8 - Elvis
     -   [ ] models/place.py
-    -   [ ] models/user.py
+    -   [x] models/user.py
     -   [ ] models/city.py
 -   [ ] Task 9 Both
     -   [ ] models/review.py
