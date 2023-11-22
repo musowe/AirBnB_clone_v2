@@ -47,15 +47,15 @@
 Basically when you are done with a task then you put an x to indicate done `-[x]`
 
 -   [x] Task 2 - Elvis (needs some touchup )
--   [ ] Task 3 - Musowe
+-   [x] Task 3 - Musowe (zero errors)
 -   [x] Task 4 - Elvis (fully done no errors)
--   [ ] Task 5 - Musowe
+-   [x] Task 5 - Musowe
 -   [ ] Task 6 - Both
     -   [ ] models_base.py - Elvis
     -   [ ] models/city.py - Elvis
-    -   [ ] models/state.py - Musowe
-    -   [ ] models/engine/models/`__init__.py` - Musowe
--   [ ] Task 7 - Musowe
+    -   [x] models/state.py - Musowe
+    -   [x] models/engine/models/`__init__.py` - Musowe
+-   [x] Task 7 - Musowe
 -   [ ] Task 8 - Elvis
     -   [ ] models/place.py
     -   [ ] models/user.py
@@ -65,7 +65,7 @@ Basically when you are done with a task then you put an x to indicate done `-[x]
     -   [ ] models/user.py
     -   [ ] models/place.py
 -   [ ] Task 10 - Both
-    -   [ ] models/amenity.py - Musowe
+    -   [x] models/amenity.py - Musowe
     -   [ ] models/place.py - Elvis
 
 Since some task are linked to each other it will good if the Checklist
